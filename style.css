@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "teddy_bear";
+    src: url("fonts/teddy-bear.ttf");
+}
+body{
+    background-color: rgb(247, 240, 240);
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+video{
+    width: 500px;
+    height: 500px;
+}
+.header1{
+    font-family: "teddy_bear", sans-serif;
+    color: rgb(0, 0, 0);
+}
+.par1{
+    border: 15px solid rgb(230, 15, 148);
+    color: blueviolet;
+}
+.header2{
+    color: blue;
+    border: 10px dotted rgb(0, 0, 0) ;
+}
+.list{
+    
+}
